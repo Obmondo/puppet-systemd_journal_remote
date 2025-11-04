@@ -1,12 +1,12 @@
 {
   "name": "genv-systemd_journal_remote",
-  "version": "1.1.0",
-  "author": "gibbs",
+  "version": "1.2.1",
+  "author": "Obmondo",
   "summary": "Installs, configures, and manages the systemd journal remote service",
   "license": "MIT",
-  "source": "https://github.com/gibbs/puppet-systemd_journal_remote",
-  "project_page": "https://github.com/gibbs/puppet-systemd_journal_remote",
-  "issues_url": "https://github.com/gibbs/puppet-systemd_journal_remote/issues",
+  "source": "https://github.com/Obmondo/puppet-systemd_journal_remote",
+  "project_page": "https://github.com/Obmondo/puppet-systemd_journal_remote",
+  "issues_url": "https://github.com/Obmondo/puppet-systemd_journal_remote/issues",
   "dependencies": [
     {
       "name": "puppetlabs/stdlib",
